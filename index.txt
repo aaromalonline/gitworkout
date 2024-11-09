@@ -1,3 +1,7 @@
 name : gittytesty nicename
+<<<<<<< HEAD
 age : 9
 facebook : gittytesty.facebook.com
+=======
+age : 9 nice age
+>>>>>>> entrycomments
