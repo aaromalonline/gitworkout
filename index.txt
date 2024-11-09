@@ -1,2 +1,2 @@
-name : gittytesty
+name : gittytesty nicename
 age : 9
