@@ -4,9 +4,9 @@ facebook : gittytesty.facebook.com
 insta : gitty@insta.com
 secret : nothing to see
 
-<<<<<<< HEAD
 
 i dont expect to you ask
-=======
 great who are you?
->>>>>>> origin/main
+
+
+on branch testcon
